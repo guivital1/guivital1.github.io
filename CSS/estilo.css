@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.77443919ce952279f40e2453e75b14dc?rik=OlYYWEjMdhTWOQ&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+
+
+}
+
+.col{
+    background-color:transparent;
+}
+.container{
+    margin-top:20px;
+    border-radius: 15px;
+}
+.img-fluid{
+    width: 500px;
+    margin-top: 20px;
+}
+
+.nav{
+    text-align: center;
+    margin-left: 300px;
+}
+
+.nav-link{
+    color: blueviolet;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+
+}
+
+.nav-link :hover{
+    color: black; 
+}
+
+h2 {
+    color: white;
+    background-color: transparent;
+}
+
+p {
+    color: white;
+    
+    
+
+}
+
+.we {
+
+    background-color: transparent;
+
+
+}
+
+a {
+
+    background-color: transparent;
+    color: white;
+}
